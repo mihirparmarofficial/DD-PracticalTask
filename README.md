@@ -18,7 +18,8 @@ This project was completed as part of a technical interview with **Dynamic Dremz
 - Figma (design reference)
 
 ## Screenshots
-[Add your screen image or gif here]
+![image](https://github.com/user-attachments/assets/332ea956-65dd-4066-83c7-e8ec5f4ff127)
+
 
 ## How to Run
 ```bash
